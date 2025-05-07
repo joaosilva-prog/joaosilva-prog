@@ -1,4 +1,4 @@
-# 🙎🏽‍♂️João Silva
+# 🙎João Silva
 
 **`Dev BackEnd em Formação`**
 
