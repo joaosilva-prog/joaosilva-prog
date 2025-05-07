@@ -12,7 +12,7 @@ Olá, meu nome é João, tenho 21 anos e sou de Poços de Caldas - MG. Atualment
             src="https://custom-icon-badges.demolab.com/github/stars/joaosilva-prog?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/joaosilva-prog?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
