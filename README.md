@@ -50,6 +50,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 
 ### 📊 Estatísticas:
 
-![Joao Silva GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaosilva-prog&show_icons=true&theme=tokyonight)
-
-![Top Langs Joao Silva](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilva-prog&layout=compact&theme=tokyonight)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=joaosilva-prog&show_icons=true&theme=tokyonight" alt="Joao Silva GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilva-prog&layout=compact&theme=tokyonight" alt="Top Langs Joao Silva"/>
+    </td>
+  </tr>
+</table>
