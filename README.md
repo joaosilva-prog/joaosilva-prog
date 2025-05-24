@@ -50,7 +50,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 
 ### 📊 Estatísticas:
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=joaosilva-prog&show_icons=true&theme=tokyonight" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilva-prog&layout=compact&theme=tokyonight" width="46%" height="165" />
 </p>
