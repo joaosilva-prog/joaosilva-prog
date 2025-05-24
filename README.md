@@ -52,4 +52,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 
 ![Joao Silva GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaosilva-prog&show_icons=true&theme=tokyonight)
 
-![Top Langs Joao Silva](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilva-prog&size_weight=0.5&count_weight=0.5)
+![Top Langs Joao Silva](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilva-prog&layout=compact&theme=tokyonight)
