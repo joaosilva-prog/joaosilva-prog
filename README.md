@@ -2,11 +2,11 @@
 
 ![Pixel Art Streamer](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxnNXdmMmR0MmxoOHRwNm91Zm5nbmE2bGZkaDBvMnpwdDRidm8xdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqktW74a1PTTcAR7pc/giphy.gif)
 
-**`Dev BackEnd em Formação`**
+**`Dev BackEnd and Data Engineer em Formação`**
 
 🌐 Olá, meu nome é João, tenho 21 anos e sou de Poços de Caldas - MG. 📌
 
-©️ Atualmente cursando Análise e Desenvolvimento de Sistemas pela UNIFEOB, sou entusiasta de BackEnd, GameDev e Pixel Artista nas horas vagas! Estou em transição de carreira para a área dev atualmente me especializando em busca da primeira vaga na minha carreira profissional como programador! Seja Bem Vindo(a)! 🎮
+©️ Atualmente cursando Análise e Desenvolvimento de Sistemas pela UNIFEOB, sou entusiasta de BackEnd, GameDev e Pixel Artista nas horas vagas! Atuo como Estagiário de Data Engineering pela DATASOLUTEC! Seja Bem Vindo(a)! 🎮
 
 ------
 
@@ -30,19 +30,35 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 
 <img 
     align="left" 
-    alt="JavaScript"
-    title="JavaScript" 
-    width="40px" 
-    style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-<img 
-    align="left" 
     alt="Python"
     title="Python" 
     width="40px" 
     style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+<img 
+    align="left" 
+    alt="Spark"
+    title="Spark" 
+    width="40px" 
+    style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
+
+<img 
+    align="left" 
+    alt="SQL"
+    title="SQL" 
+    width="40px" 
+    style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+
+<img 
+    align="left" 
+    alt="JavaScript"
+    title="JavaScript" 
+    width="40px" 
+    style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 <br/>
 <br/>
