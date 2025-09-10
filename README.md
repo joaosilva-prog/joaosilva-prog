@@ -6,7 +6,7 @@
 
 🌐 Olá, meu nome é João, tenho 21 anos e sou de Poços de Caldas - MG. 📌
 
-©️ Atualmente cursando Análise e Desenvolvimento de Sistemas pela UNIFEOB, sou entusiasta de BackEnd, GameDev e Pixel Artista nas horas vagas! Atuo como Estagiário de Data Engineering pela DATASOLUTEC! Seja Bem Vindo(a)! 🎮
+©️ Atualmente cursando Análise e Desenvolvimento de Sistemas pela UNIFEOB, sou entusiasta de BackEnd, GameDev, Data Engineering e Pixel Artista nas horas vagas! Atuo como Estagiário de Data Engineering pela DATASOLUTEC! Seja Bem Vindo(a)! 🎮
 
 ------
 
@@ -67,7 +67,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 ### 📊 Estatísticas:
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=joaosilva-prog&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaosilva-prog&show_icons=true&theme=tokyonight&cache_seconds=1800" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilva-prog&layout=compact&theme=tokyonight" width="46%" height="165" />
 </p>
 
