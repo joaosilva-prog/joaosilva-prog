@@ -4,6 +4,9 @@
 
 **`Dev BackEnd and Data Engineer em Formação`**
 
+<img width="120" height="164" alt="fundamentals-badge-databricks-2x_1" src="https://github.com/user-attachments/assets/df0f289a-702e-4c00-8c88-d70929e82e88" />
+
+
 🌐 Olá, meu nome é João, tenho 21 anos e sou de Poços de Caldas - MG. 📌
 
 ©️ Atualmente cursando Análise e Desenvolvimento de Sistemas pela UNIFEOB, sou entusiasta de BackEnd, GameDev, Data Engineering e Pixel Artista nas horas vagas! Atuo como Estagiário de Data Engineering pela Datasolutec! Seja Bem Vindo(a)! 🎮
@@ -43,6 +46,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
     width="40px" 
     style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
+
+<img 
+    align="left" 
+    alt="Databricks"
+    title="Databricks" 
+    width="50px" 
+    style="padding-right: 10px;" 
+src="https://cdn.brandfetch.io/idSUrLOWbH/idEHbzBDZC.svg?c=1bxid64Mup7aczewSAYMX&t=1661139049043" />
 
 <img 
     align="left" 
