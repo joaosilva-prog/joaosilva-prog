@@ -9,9 +9,15 @@
 <img width="120" height="164" alt="fundamentals-badge-databricks-2x_1" src="https://github.com/user-attachments/assets/df0f289a-702e-4c00-8c88-d70929e82e88" />
 
 
-🌐 Olá, meu nome é João, tenho 21 anos e sou de Poços de Caldas - MG. 📌
+João | 22 anos | Poços de Caldas - MG 📍
 
-©️ Atualmente cursando Análise e Desenvolvimento de Sistemas pela UNIFEOB, sou entusiasta de BackEnd, GameDev, Data Engineering e Pixel Artista nas horas vagas! Atuo como Estagiário de Data Engineering pela Datasolutec! Seja Bem Vindo(a)! 🎮
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
+- 💡 Data Engineering Intern na @Datasolutec
+
+🌐 Focado em construir soluções de dados com Spark, SQL e Python no ecossistema Databricks. Entusiasta de Backend e GameDev, e Pixel Artista nas horas vagas.
+
+👾 Seja bem vindo(a)! 
 
 ------
 
