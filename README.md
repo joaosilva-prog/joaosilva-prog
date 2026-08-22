@@ -4,18 +4,26 @@
 
 **`Data Engineer and BackEnd Dev`**
 
+<img width="120" height="160" alt="twitter_thumb_201604_SnowProCoreTM600" src="https://github.com/user-attachments/assets/3c45316e-c8ff-40eb-9570-6a87fd07c0bc" />
+
+<img width="120" height="164" alt="1767788496098 (1)" src="https://github.com/user-attachments/assets/99e83e87-b608-4723-ba98-9c2e7f0e9c7e" />
+
 <img width="120" height="144" alt="professional-badge-de" src="https://github.com/user-attachments/assets/1f7faad5-a980-4b74-b02f-7b06a6ca731a" />
 
-<img width="120" height="164" alt="fundamentals-badge-databricks-2x_1" src="https://github.com/user-attachments/assets/df0f289a-702e-4c00-8c88-d70929e82e88" />
+<img width="120" height="142" alt="Professional-badge-ML" src="https://github.com/user-attachments/assets/949855c4-d08c-48bb-b111-1b59b2261bac" />
 
+<img width="120" height="142" alt="fundamentals-badge-databricks-2x_1" src="https://github.com/user-attachments/assets/df0f289a-702e-4c00-8c88-d70929e82e88" />
 
-João | 22 anos | Poços de Caldas - MG 📍
+[Veja todas as minhas certificações e badges profissionais aqui!]([https://url.com](https://www.credential.net/profile/joaosilva35/wallet))
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+João | 23 anos | Poços de Caldas - MG 📍
 
-- 💡 Data Engineering Intern na @Datasolutec
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas e Jogos Digitais
 
-🌐 Focado em construir soluções de dados com Spark, SQL e Python no ecossistema Databricks. Entusiasta de Backend e GameDev, e Pixel Artista nas horas vagas.
+- 💡 Data Engineer na @Datasolutec
+
+🌐 Data Engineer construindo pipelines e soluções de dados de ponta a ponta, modelagem, ETL/ELT, orquestração e governança com Spark, SQL, Python, Airflow, Databricks e Snowflake. 🤖 Também trabalho com AI/ML (dados para treino, feature engineering, integração de modelos) e desenvolvimento de software em geral.
+🎮 Entusiasta de Backend e GameDev • 🎨 Pixel Artist nas horas vagas
 
 👾 Seja bem vindo(a)! 
 
