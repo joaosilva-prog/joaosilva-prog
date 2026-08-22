@@ -2,7 +2,7 @@
 
 ![Pixel Art Streamer](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxnNXdmMmR0MmxoOHRwNm91Zm5nbmE2bGZkaDBvMnpwdDRidm8xdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqktW74a1PTTcAR7pc/giphy.gif)
 
-**`Data Engineer and BackEnd Dev em Formação`**
+**`Data Engineer and BackEnd Dev`**
 
 <img width="120" height="144" alt="professional-badge-de" src="https://github.com/user-attachments/assets/1f7faad5-a980-4b74-b02f-7b06a6ca731a" />
 
