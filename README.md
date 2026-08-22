@@ -14,7 +14,7 @@
 
 <img width="120" height="142" alt="fundamentals-badge-databricks-2x_1" src="https://github.com/user-attachments/assets/df0f289a-702e-4c00-8c88-d70929e82e88" />
 
-[Veja todas as minhas certificações e badges profissionais aqui!]([https://url.com](https://www.credential.net/profile/joaosilva35/wallet))
+[Veja todas as minhas certificações e badges profissionais aqui!](https://www.credential.net/profile/joaosilva35/wallet)
 
 João | 23 anos | Poços de Caldas - MG 📍
 
