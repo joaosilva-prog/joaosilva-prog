@@ -4,9 +4,9 @@
 
 **`Data Engineer and BackEnd Dev`**
 
-<img width="120" height="160" alt="twitter_thumb_201604_SnowProCoreTM600" src="https://github.com/user-attachments/assets/3c45316e-c8ff-40eb-9570-6a87fd07c0bc" />
+<img width="125" height="142" alt="twitter_thumb_201604_SnowProCoreTM600" src="https://github.com/user-attachments/assets/3c45316e-c8ff-40eb-9570-6a87fd07c0bc" />
 
-<img width="120" height="164" alt="1767788496098 (1)" src="https://github.com/user-attachments/assets/99e83e87-b608-4723-ba98-9c2e7f0e9c7e" />
+<img width="125" height="142" alt="1767788496098 (1)" src="https://github.com/user-attachments/assets/99e83e87-b608-4723-ba98-9c2e7f0e9c7e" />
 
 <img width="120" height="144" alt="professional-badge-de" src="https://github.com/user-attachments/assets/1f7faad5-a980-4b74-b02f-7b06a6ca731a" />
 
